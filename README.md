@@ -10,8 +10,13 @@ Refer to the file: Final ER Diagram.png
 For the sake of simplicity and exclusivity, I have changed the names of '_id' field for Receipts, Users, and Brands schema to 'receipt_id', 'user_id' and 'brand_id' respectively.
 
 
+
+
 Second: Write a query that directly answers a predetermined question from a business stakeholder
+
 Refer to the file: SQL Queries.pdf
+
+
 
 
 Third: Evaluate Data Quality Issues in the Data Provided
@@ -28,6 +33,8 @@ Major data quality issues found:
 2. 'Users' data(Data Quality Issues Users.pdf): More than half of the records are duplicate.
 
 3. 'Brands' data(Data Quality Issues Brands.pdf): Considerate fractions of values missing for 'topBrand' and 'categoryCode' columns.
+
+
 
 
 Fourth: Communicate with Stakeholders
