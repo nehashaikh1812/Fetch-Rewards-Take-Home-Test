@@ -19,7 +19,7 @@ Refer to the file: SQL Queries.pdf
 
 
 
-Third: Evaluate Data Quality Issues in the Data Provided
+Third: Evaluate Data Quality Issues in the Data Provided (please refer individual PDFs for detailed explanantion of the issues)
 I have conducted Exploratory Data Analysis on Reciepts, Users and Brands data using Python, via JupterLab.
 Refer to files: Data Quality Issues Receipts.pdf, Data Quality Issues Users.pdf, and Data Quality Issues Brands.pdf (PDF versions of Jupyter NoteBooks)
 
