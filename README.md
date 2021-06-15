@@ -33,7 +33,7 @@ Major data quality issues found:
       
 2. 'Users' data(Data Quality Issues Users.pdf): More than half of the records are duplicate.
 
-3. 'Brands' data(Data Quality Issues Brands.pdf): Considerate fractions of values missing for 'topBrand' and 'categoryCode' columns.
+3. 'Brands' data(Data Quality Issues Brands.pdf): Considerate fraction of values missing for 'topBrand' and 'categoryCode' columns.
 
 
 
